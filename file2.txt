@@ -1,0 +1,2 @@
+This is file2.txt file
+this is from local storage created by Gowtham B
